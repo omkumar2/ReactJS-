@@ -1,0 +1,25 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'helvetica neue';
+  color: #fff;
+}
+
+body {
+  background-color: #121212;
+}
+
+
+.card {
+  background-color: pink;
+  border-radius: 10px;
+  margin: 20px;
+  padding: 20px;
+}
+
+.navbar {
+  background-color: #1f1f1f;
+  padding: 15px;
+  text-align: center;
+}

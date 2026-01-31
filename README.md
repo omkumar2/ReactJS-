@@ -4,6 +4,8 @@ npm create vite
 
 # for runing the project write this command 
 
+npm install
+
 npm run dev
 
 
